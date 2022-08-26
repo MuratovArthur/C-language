@@ -1,5 +1,9 @@
+/*Get an integer value n, and a double value x from the user,
+and then calculate the value of the series x1 + x2 + x3 + … + xn.
+Do this without using nested loops, or the pow(x, i) function
+from the math.h library (that’s what makes this challenging!*/
+
 #include <stdio.h>
-#include <math.h>
 
 int main(){
    int n;
